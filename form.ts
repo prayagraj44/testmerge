@@ -15,6 +15,8 @@ export class LoginTdfComponent implements OnInit {
 
   ngOnInit(): void {
 
+  console.log("1");
+
   }
 
   // login(loginForm: NgForm){
